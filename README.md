@@ -1,5 +1,7 @@
 #Read Me
 
+apk File is in the ./src/apk/ 
+
 To create the ipa file the foolowing steps need to be take.
 
 - In the terminal cd to the destination folder. 
